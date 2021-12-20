@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileChooser</string>
+    <string name="open">Открыть файл</string>
+</resources>
